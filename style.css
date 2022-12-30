@@ -1,0 +1,35 @@
+main > .container {
+    padding: 60px 15px 0;
+}
+
+.card{
+    padding: 5px;
+    margin: 5px;
+}
+
+.img-style{
+    width: 1500px;
+    height: 750px;
+    
+}
+
+.img-beg-style{
+    width: 410 !important;
+    height: 250 !important;
+}
+
+.pro-detail{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+
+.info-text{
+    padding: 5px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.desc-text{
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
